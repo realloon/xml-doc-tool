@@ -30,7 +30,7 @@
     "parents": ["Defs"],
     "children": ["category", "statBases"],
     "values": [],
-    "attributes": { "Abstract": ["True"]， "Name": ["Weapon"] }
+    "attributes": { "Abstract": ["True"], "Name": ["Weapon"] }
   },
   "category": {
     "parents": ["ThingDef"],
@@ -64,7 +64,6 @@
 如果 RimWorld 版本有更新，或者你想从任何来源（DLC、Mods）提取，请看下面的流程。
 
 首先，你需要安装本项目的依赖：
-
 
 ```sh
 bun install
